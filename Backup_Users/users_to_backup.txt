@@ -1,0 +1,3 @@
+# enter users without space in between and separated by comma
+# enter users below
+ordcon,richieretail,richieretail_pk,richiesaree,richiesaree_pk,richiegar,richiegar_pk
